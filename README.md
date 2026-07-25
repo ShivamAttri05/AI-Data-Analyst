@@ -28,8 +28,7 @@ ai_data_analyst/
 │       └── analyzer.py      # Analysis and code execution
 ├── requirements.txt
 ├── .env.example
-├── README.md
-└── SPEC.md
+└── README.md
 ```
 
 ## Installation
